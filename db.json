@@ -1,9 +1,565 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "agencies": [
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1510531704",
+      "label": "Requs",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1993021403",
+      "label": "Rosgy",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1779655485",
+      "label": "Nilla Tells Group",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/702648907",
+      "label": "Nilla Tells Group",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1374038365",
+      "label": "ExpatGH",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1027762878",
+      "label": "Aenes",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/143613684",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1258582779",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/2012158449",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1498153523",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/2063073182",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/2145993801",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1500217951",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1874389967",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/209532712",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1566004467",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1343420924",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1277059386",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/1051378955",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/208147706",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/391224142",
+      "label": "Med property",
+      "href": "agent-name"
+    },
+    {
+      "src": "https://dve7rykno93gs.cloudfront.net/fascimos/somics/998017217",
+      "label": "Med property",
+      "href": "agent-name"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+
+  "projects": [
+    {
+      "project": "Harmonia Residence",
+      "images": [
+        "https://harmoniaresidence.com.gh/wp-content/uploads/2022/02/6.Frontside-1.jpg",
+        "https://harmoniaresidence.com.gh/wp-content/uploads/2022/02/1.FrontWide.jpg",
+        "https://harmoniaresidence.com.gh/wp-content/uploads/2022/02/16.Lounge-1.jpg",
+        "https://harmoniaresidence.com.gh/wp-content/uploads/2022/02/19.WideLounge-1-1080x1080.jpg",
+        "https://harmoniaresidence.com.gh/wp-content/uploads/2022/02/18.closecounter-1-1080x1080.jpg"
+      ],
+      "location": {
+        "city": "Airport Residential",
+        "state": "Accra"
+      },
+      "status": "ongoing",
+      "unitTypes": [1, 2, 3],
+      "description": "Luxurious property in a prime location, safe residential area, fully finished, with a great view and close to everything you need; Harmonia Residence is the answer. ",
+      "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe",
+      "id": 1
+    },
+    {
+      "project": "Cantoments City Tower",
+      "images": [
+        "https://goldkeyghana.com/wp-content/uploads/WPL/14/img_GKL-2-.jpg",
+        "https://goldkeyghana.com/wp-content/uploads/WPL/14/img_GKL-8-1-.jpg",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/4fb804d424c2e2c7061bad7233651a29",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/473fdd2482d4f2fbc2809903a244a7f8",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/73d5427800623aa3c55d7ae9bb6660f1"
+      ],
+      "location": {
+        "city": "Cantoments",
+        "state": "Accra"
+      },
+      "status": "completed",
+      "unitTypes": [1, 2],
+      "description": "Elegance and simplicity are expressed in our 90.3 sqm apartment.",
+      "logo": "https://meqasa.com/uploads/imgs/c4085edb510333529100aefe69f2e93b",
+      "id": 2
+    },
+    {
+      "project": "Solaris Apartments",
+      "images": [
+        "https://swamiindiaghanaltd.com/solaris-apartments/wp-content/uploads/2021/03/vlcsnap-2021-01-31-17h32m37s183.jpg",
+        "https://swamiindiaghanaltd.com/solaris-apartments/wp-content/uploads/2021/03/vlcsnap-2021-01-31-17h34m16s996-1280x720.jpg",
+        "https://swamiindiaghanaltd.com/solaris-apartments/wp-content/uploads/2021/03/vlcsnap-2021-01-31-17h34m41s284-1280x720.jpg",
+        "https://swamiindiaghanaltd.com/solaris-apartments/wp-content/uploads/2021/03/vlcsnap-2021-01-31-17h35m03s988-1280x720.jpg",
+        "https://swamiindiaghanaltd.com/solaris-apartments/wp-content/uploads/2021/03/vlcsnap-2021-01-31-17h36m09s381-1280x720.jpg"
+      ],
+      "location": {
+        "city": "Osu",
+        "state": "Accra"
+      },
+      "status": "completed",
+      "unitTypes": [1, 2],
+      "description": "Solaris is a magnificent residential landmark featuring 133 Luxurious 1 & 2 Bedroom apartments that comes with an extensive range of lifestyle amenities.",
+      "logo": "https://meqasa.com/uploads/imgs/bad5eded523f5e4695f26059d038f332",
+      "id": 3
+    },
+    {
+      "project": "One Elm",
+      "images": [
+        "https://oneelm.quaorealty.com/wp-content/uploads/2022/12/One-Elm-Aerial-Main-1024x698.jpg",
+        "https://oneelm.quaorealty.com/wp-content/uploads/2022/11/One-Elm-Pool-02-1024x512.jpg",
+        "https://oneelm.quaorealty.com/wp-content/uploads/2022/11/One-Elm-Exterior-03-768x900.jpg"
+      ],
+      "location": {
+        "city": "Airport Residential",
+        "state": "Accra"
+      },
+      "status": "ongoing",
+      "unitTypes": [1, 2, 3],
+      "description": "One Elm, located in an intimate enclave at the heart of Accra’s most distinguished and elegant area: Airport Residential.",
+      "logo": "https://meqasa.com/uploads/imgs/f01176b82b54c77ae93f6076c886d073",
+      "id": 4
+    }
   ],
-  "profile": { "name": "typicode" }
+  "blogs": [
+    {
+      "title": "Could Your Home Be Making You Sick?",
+      "author": "John Smith",
+      "poster": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+      "company": "meQasa Blog",
+      "datePosted": "April 04, 2023",
+      "href": "#",
+      "tag": "featured"
+    },
+    {
+      "title": "3 most popular property types amongst real estate developers in ghana",
+      "author": "Amy Johnson",
+      "poster": "https://images.unsplash.com/photo-1526566762798-8fac9c07aa98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2208&q=80",
+      "company": "meQasa Blog",
+      "datePosted": "March 23, 2023",
+      "href": "#",
+      "tag": "news"
+    },
+    {
+      "title": "Cabinet Approval of the Rent Bill",
+      "author": "David Lee",
+      "poster": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+      "company": "meQasa Blog",
+      "datePosted": "November 22, 2022",
+      "href": "#",
+      "tag": "featured"
+    }
+  ],
+  "neighborhoods": [
+    {
+      "location": "East Legon",
+      "src": "https://images.unsplash.com/photo-1568232033336-8bbd9ff19a9a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=927&q=80",
+      "href": "/"
+    },
+    {
+      "location": "Airport Residential Area",
+      "src": "https://images.unsplash.com/photo-1582016309733-5865c2f9f21f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2664&q=80",
+      "href": "/"
+    },
+    {
+      "location": "Osu",
+      "src": "https://images.unsplash.com/photo-1562757219-2ffc897f99e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1408&q=80",
+      "href": "/"
+    },
+    {
+      "location": "Dzorwulu",
+      "src": "https://images.unsplash.com/photo-1565698874660-48a2138bcd73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+      "href": "/"
+    }
+  ],
+  "listings": [
+    {
+      "title": "Three Bedroom Luxury Home for Sale at East Legon Hills",
+      "price": "247,849",
+      "location": "East Legon Hills",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/02070cbba15e122136a2360a7c613ebb",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/2b2519b0e91e1e7d1758914e473d0051",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/f0518bb4eb3cd2b58ce4a33720c24f36",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/5a9858570c1030992123a10f591af43a",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/3dc1c93d2a138bde5c3a5b4048c3b55e"
+      ],
+      "amenities": {
+        "beds": "3",
+        "baths": "4",
+        "sqft": "2300"
+      },
+      "desc": "The Type B properties in Paradise Estate are medium-sized villas that come with almost all the practical amenities as seen in a Type A property. There is parking space that can fit two of your cars, while the entrance verandah faces a sweet little garden that is a beautiful green facade to your new home.The main door opens into a vestibule making sure the privacy of the residents is not disturbed. The drawing room is a spacious room to entertain guests or relax with your family. The dining area looks into the garden and has a discreet powder room attached to it. The kitchen is well organized, with imported modular cabinets and fixtures. The massive storeroom is almost half the size of your kitchen, making all your storage worries go away.",
+      "project-name": "Paradise Estate",
+      "unit-type": "Type - B",
+      "balcony": true,
+      "fully-furnished": false,
+      "address": "East Legon Hill, Katamanso Near Sweden Ghana Medical Centre, Ghana ",
+      "brochure": "https://meqasa.com/uploads/imgs/42aa52ad913af01955695f67b2f5a445.pdf",
+      "amenity": {
+        "fans": true,
+        "terrace": true,
+        "pool": true,
+        "cooker": true,
+        "garden": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "cabinets": true,
+        "water": true
+      }
+    },
+    {
+      "title": "9 Bedrooms Furnished House For Sale at Adjiriganor",
+      "price": "11,775,000",
+      "location": "Adjiringanor",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/22916503",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/22916502",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/22916504",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/22916505",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/22916500"
+      ],
+      "amenities": {
+        "beds": "9",
+        "baths": "10",
+        "sqft": "3800"
+      },
+      "desc": "fully furnished living room and fitted kitchen with oven/microwave/cooker/double door fridge freezer/blender/cooking utensils/plates and cutlery setBalcony Fitted wardrobes Hot Water available in bathrooms and kitchen 247 Water supply Security entry doors Air condition in all areas including bedrooms and living room Communal Swimming pool 247 security services Outdoor playgrounds for children",
+      "categories": [
+        {
+          "label": "Apartment for Rent",
+          "href": "https://meqasa.com/apartments-for-rent-in-ghana"
+        },
+        {
+          "label": "Apartment for Rent in Airport Residential Area",
+          "href": "https://meqasa.com/apartments-for-rent-in-Airport%20Residential%20Area"
+        }
+      ],
+      "negotiable": true,
+      "furnished": true,
+      "address": "Airport Residential Area",
+      "reference": "298947",
+      "id": 1,
+      "amenity": {
+        "ac": true,
+        "microwave": true,
+        "pool": true,
+        "cooker": true,
+        "internet": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "fridge": true,
+        "water": true
+      }
+    },
+    {
+      "title": "Executive 3 Bedroom fully furnished Apartment For Rent At Airport Residential at @villagioresidence",
+      "price": "1,015,000",
+      "location": "Airport Residential Area",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/27843100",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/27843101",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/27843104",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/27843108",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/27843109"
+      ],
+      "amenities": {
+        "beds": "3",
+        "baths": "3",
+        "sqft": "3500"
+      },
+      "desc": "fully furnished living room and fitted kitchen with oven/microwave/cooker/double door fridge freezer/blender/cooking utensils/plates and cutlery setBalcony Fitted wardrobes Hot Water available in bathrooms and kitchen 247 Water supply Security entry doors Air condition in all areas including bedrooms and living room Communal Swimming pool 247 security services Outdoor playgrounds for children",
+      "categories": [
+        {
+          "label": "Apartment for Rent",
+          "href": "https://meqasa.com/apartments-for-rent-in-ghana"
+        },
+        {
+          "label": "Apartment for Rent in Airport Residential Area",
+          "href": "https://meqasa.com/apartments-for-rent-in-Airport%20Residential%20Area"
+        }
+      ],
+      "negotiable": true,
+      "furnished": true,
+      "address": "Airport Residential Area",
+      "reference": "298947",
+      "id": 2,
+      "amenity": {
+        "ac": true,
+        "microwave": true,
+        "pool": true,
+        "cooker": true,
+        "internet": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "fridge": true,
+        "water": true
+      }
+    },
+
+    {
+      "title": "4 Bedrooms furnished house for sale at  lakeside estate",
+      "price": "2,149,391",
+      "location": "Lakeside Estate",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/28953000",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/28953003",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/28953005",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/28953013",
+        "https://dve7rykno93gs.cloudfront.net/temp/temp/28953002"
+      ],
+      "amenities": {
+        "beds": "4",
+        "baths": "5",
+        "sqft": "3200"
+      },
+      "desc": "fully furnished living room and fitted kitchen with oven/microwave/cooker/double door fridge freezer/blender/cooking utensils/plates and cutlery setBalcony Fitted wardrobes Hot Water available in bathrooms and kitchen 247 Water supply Security entry doors Air condition in all areas including bedrooms and living room Communal Swimming pool 247 security services Outdoor playgrounds for children",
+      "categories": [
+        {
+          "label": "Apartment for Rent",
+          "href": "https://meqasa.com/apartments-for-rent-in-ghana"
+        },
+        {
+          "label": "Apartment for Rent in Airport Residential Area",
+          "href": "https://meqasa.com/apartments-for-rent-in-Airport%20Residential%20Area"
+        }
+      ],
+      "negotiable": true,
+      "furnished": true,
+      "address": "Airport Residential Area",
+      "reference": "298947",
+      "id": 3,
+      "amenity": {
+        "ac": true,
+        "microwave": true,
+        "pool": true,
+        "cooker": true,
+        "internet": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "fridge": true,
+        "water": true
+      }
+    },
+
+    {
+      "title": "1 bedroom for sale at east legon",
+      "price": "1,420,389",
+      "location": "East Legon",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/88216ef80fac559714cc2675d136a264",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/d8c3405659ad8175c8b81bdf755ed094",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/8c3f329867cb80dfb53bca6e734df0e0",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/868b6990eae6a72cea73cc062baffdb8",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/90b22b79e80c7d77afb1568d17601cb1"
+      ],
+      "amenities": {
+        "beds": "1",
+        "baths": "2",
+        "sqft": "600"
+      },
+      "desc": "fully furnished living room and fitted kitchen with oven/microwave/cooker/double door fridge freezer/blender/cooking utensils/plates and cutlery setBalcony Fitted wardrobes Hot Water available in bathrooms and kitchen 247 Water supply Security entry doors Air condition in all areas including bedrooms and living room Communal Swimming pool 247 security services Outdoor playgrounds for children",
+      "categories": [
+        {
+          "label": "Apartment for Rent",
+          "href": "https://meqasa.com/apartments-for-rent-in-ghana"
+        },
+        {
+          "label": "Apartment for Rent in Airport Residential Area",
+          "href": "https://meqasa.com/apartments-for-rent-in-Airport%20Residential%20Area"
+        }
+      ],
+      "negotiable": true,
+      "furnished": true,
+      "address": "Airport Residential Area",
+      "reference": "298947",
+      "id": 4,
+      "amenity": {
+        "ac": true,
+        "microwave": true,
+        "pool": true,
+        "cooker": true,
+        "internet": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "fridge": true,
+        "water": true
+      }
+    },
+
+    {
+      "title": "1-Bedroom luxury apartment for sale at ringway estate, osu",
+      "price": "155,200",
+      "location": "Ringway Estate, Osu",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/5db3e3f6a103025845f86c17c1fa6ccf",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/b3f36175b88765b4a8cd4910bf3739f7",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/63c6f54220e42e46c0293886aac52e75",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/6385a1c8656d5ac9f7862b52f81480e6",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/ea17322fd8e1d8fc4f2a0240b60abace"
+      ],
+      "amenities": {
+        "beds": "1",
+        "baths": "2",
+        "sqft": "1000"
+      },
+      "desc": "fully furnished living room and fitted kitchen with oven/microwave/cooker/double door fridge freezer/blender/cooking utensils/plates and cutlery setBalcony Fitted wardrobes Hot Water available in bathrooms and kitchen 247 Water supply Security entry doors Air condition in all areas including bedrooms and living room Communal Swimming pool 247 security services Outdoor playgrounds for children",
+      "categories": [
+        {
+          "label": "Apartment for Rent",
+          "href": "https://meqasa.com/apartments-for-rent-in-ghana"
+        },
+        {
+          "label": "Apartment for Rent in Airport Residential Area",
+          "href": "https://meqasa.com/apartments-for-rent-in-Airport%20Residential%20Area"
+        }
+      ],
+      "negotiable": true,
+      "furnished": true,
+      "address": "Airport Residential Area",
+      "reference": "298947",
+      "id": 5,
+      "amenity": {
+        "ac": true,
+        "microwave": true,
+        "pool": true,
+        "cooker": true,
+        "internet": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "fridge": true,
+        "water": true
+      }
+    },
+    {
+      "title": "4 Bedrooms for sale at oyarifa",
+      "price": "3,103,481",
+      "location": "Oyarifa",
+      "images": [
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/6e70bb9120300eabbc5ca7ce1c16af8f",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/68239c9400c7805c9fa30a5034bbd0aa",
+        "https://dve7rykno93gs.cloudfront.net/uploads/imgs/fc536e5bc6209cbca29d040b0be552c1"
+      ],
+      "amenities": {
+        "beds": "4",
+        "baths": "5",
+        "sqft": "23000"
+      },
+      "desc": "fully furnished living room and fitted kitchen with oven/microwave/cooker/double door fridge freezer/blender/cooking utensils/plates and cutlery setBalcony Fitted wardrobes Hot Water available in bathrooms and kitchen 247 Water supply Security entry doors Air condition in all areas including bedrooms and living room Communal Swimming pool 247 security services Outdoor playgrounds for children",
+      "categories": [
+        {
+          "label": "Apartment for Rent",
+          "href": "https://meqasa.com/apartments-for-rent-in-ghana"
+        },
+        {
+          "label": "Apartment for Rent in Airport Residential Area",
+          "href": "https://meqasa.com/apartments-for-rent-in-Airport%20Residential%20Area"
+        }
+      ],
+      "negotiable": true,
+      "furnished": true,
+      "address": "Airport Residential Area",
+      "reference": "298947",
+      "id": 6,
+      "amenity": {
+        "ac": true,
+        "microwave": true,
+        "pool": true,
+        "cooker": true,
+        "internet": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "fridge": true,
+        "water": true
+      }
+    }
+  ]
 }
