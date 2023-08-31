@@ -130,7 +130,7 @@
       "unitTypes": [1, 2, 3],
       "description": "Luxurious property in a prime location, safe residential area, fully finished, with a great view and close to everything you need; Harmonia Residence is the answer. ",
       "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe",
-      "id": 1
+      "id": "1"
     },
     {
       "project": "Cantoments City Tower",
@@ -149,7 +149,7 @@
       "unitTypes": [1, 2],
       "description": "Elegance and simplicity are expressed in our 90.3 sqm apartment.",
       "logo": "https://meqasa.com/uploads/imgs/c4085edb510333529100aefe69f2e93b",
-      "id": 2
+      "id": "2"
     },
     {
       "project": "Solaris Apartments",
@@ -168,7 +168,7 @@
       "unitTypes": [1, 2],
       "description": "Solaris is a magnificent residential landmark featuring 133 Luxurious 1 & 2 Bedroom apartments that comes with an extensive range of lifestyle amenities.",
       "logo": "https://meqasa.com/uploads/imgs/bad5eded523f5e4695f26059d038f332",
-      "id": 3
+      "id": "3"
     },
     {
       "project": "One Elm",
@@ -185,7 +185,7 @@
       "unitTypes": [1, 2, 3],
       "description": "One Elm, located in an intimate enclave at the heart of Accra’s most distinguished and elegant area: Airport Residential.",
       "logo": "https://meqasa.com/uploads/imgs/f01176b82b54c77ae93f6076c886d073",
-      "id": 4
+      "id": "4"
     }
   ],
   "blogs": [
@@ -277,7 +277,7 @@
         "cabinets": true,
         "water": true
       },
-      "id": 1
+      "id": "1"
     },
     {
       "title": "9 Bedrooms Furnished House For Sale at Adjiriganor",
@@ -310,7 +310,7 @@
       "furnished": true,
       "address": "Airport Residential Area",
       "reference": "298947",
-      "id": 2,
+      "id": "2",
       "amenity": {
         "ac": true,
         "microwave": true,
@@ -357,7 +357,7 @@
       "furnished": true,
       "address": "Airport Residential Area",
       "reference": "298947",
-      "id": 3,
+      "id": "3",
       "amenity": {
         "ac": true,
         "microwave": true,
@@ -405,7 +405,7 @@
       "furnished": true,
       "address": "Airport Residential Area",
       "reference": "298947",
-      "id": 4,
+      "id": "4",
       "amenity": {
         "ac": true,
         "microwave": true,
@@ -453,7 +453,7 @@
       "furnished": true,
       "address": "Airport Residential Area",
       "reference": "298947",
-      "id": 5,
+      "id": "5",
       "amenity": {
         "ac": true,
         "microwave": true,
@@ -501,7 +501,7 @@
       "furnished": true,
       "address": "Airport Residential Area",
       "reference": "298947",
-      "id": 6,
+      "id": "6",
       "amenity": {
         "ac": true,
         "microwave": true,
@@ -546,7 +546,7 @@
       "furnished": true,
       "address": "Airport Residential Area",
       "reference": "298947",
-      "id": 7,
+      "id": "7",
       "amenity": {
         "ac": true,
         "microwave": true,
