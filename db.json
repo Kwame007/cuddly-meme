@@ -598,6 +598,43 @@
         "fridge": true,
         "water": true
       }
+    },
+    {
+      "title": "Luxury Villa with Ocean View, Accra",
+      "price": "2,500,000",
+      "location": "Accra",
+      "images": [
+        "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
+        "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
+        "https://images.unsplash.com/photo-1560185127-59e4420e2c93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3387&q=80",
+        "https://images.unsplash.com/photo-1569152811536-fb47aced8409?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3269&q=80",
+        "https://images.unsplash.com/photo-1512914890251-2f96a9b0bbe2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3271&q=80"
+      ],
+      "amenities": {
+        "beds": "5",
+        "baths": "6",
+        "garage": "5",
+        "sqft": "5500"
+      },
+      "desc": "Experience luxury living in this stunning villa with breathtaking ocean views...",
+      "projectName": "Ocean View Villas",
+      "unitType": "Luxury Villa",
+      "isDeveloper": true,
+      "balcony": true,
+      "fullyFurnished": true,
+      "address": "Ocean Drive, Accra, Ghana",
+      "brochure": "https://meqasa.com/uploads/imgs/3c8420f579c1b2228e7cd537d4da2990.pdf",
+      "amenity": {
+        "pool": true,
+        "garden": true,
+        "security": true,
+        "washer": true,
+        "cable": true,
+        "gen": true,
+        "garage": true,
+        "water": true
+      },
+      "id": "8"
     }
   ]
 }
