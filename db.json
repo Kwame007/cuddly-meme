@@ -259,6 +259,7 @@
       "desc": "The Type B properties in Paradise Estate are medium-sized villas that come with almost all the practical amenities as seen in a Type A property. There is parking space that can fit two of your cars, while the entrance verandah faces a sweet little garden that is a beautiful green facade to your new home.The main door opens into a vestibule making sure the privacy of the residents is not disturbed. The drawing room is a spacious room to entertain guests or relax with your family. The dining area looks into the garden and has a discreet powder room attached to it. The kitchen is well organized, with imported modular cabinets and fixtures. The massive storeroom is almost half the size of your kitchen, making all your storage worries go away.",
       "project-name": "Paradise Estate",
       "unit-type": "Type - B",
+      "isDeveloper": true,
       "balcony": true,
       "fully-furnished": false,
       "address": "East Legon Hill, Katamanso Near Sweden Ghana Medical Centre, Ghana ",
