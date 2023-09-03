@@ -133,7 +133,7 @@
       "id": "1"
     },
     {
-      "project": "Cantoments City Tower",
+      "project": "Cantonment City Tower",
       "images": [
         "https://goldkeyghana.com/wp-content/uploads/WPL/14/img_GKL-2-.jpg",
         "https://goldkeyghana.com/wp-content/uploads/WPL/14/img_GKL-8-1-.jpg",
@@ -142,7 +142,7 @@
         "https://dve7rykno93gs.cloudfront.net/uploads/imgs/73d5427800623aa3c55d7ae9bb6660f1"
       ],
       "location": {
-        "city": "Cantoments",
+        "city": "Cantonment",
         "state": "Accra"
       },
       "status": "completed",
@@ -242,7 +242,8 @@
   "listings": [
     {
       "title": "Three Bedroom Luxury Home for Sale at East Legon Hills",
-      "price": "247,849",
+      "price": "7247849",
+      "type": "sale",
       "location": "East Legon Hills",
       "images": [
         "https://images.unsplash.com/photo-1668911491509-6618ac24e92f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3271&q=80",
@@ -287,7 +288,8 @@
     },
     {
       "title": "9 Bedrooms Furnished House For Sale at Adjiriganor",
-      "price": "11,775,000",
+      "price": "11775000",
+      "type": "sale",
       "location": "Adjiringanor",
       "images": [
         "https://images.unsplash.com/photo-1502005229762-cf1b2da7c5d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3387&q=80",
@@ -340,7 +342,8 @@
     },
     {
       "title": "Executive 3 Bedroom fully furnished Apartment For Rent At Airport Residential at @villagioresidence",
-      "price": "1,015,000",
+      "price": "50500",
+      "type": "rent",
       "location": "Airport Residential Area",
       "images": [
         "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
@@ -393,7 +396,8 @@
 
     {
       "title": "4 Bedrooms furnished house for sale at  lakeside estate",
-      "price": "2,149,391",
+      "price": "2149391",
+      "type": "sale",
       "location": "Lakeside Estate",
       "images": [
         "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3387&q=80",
@@ -445,9 +449,10 @@
     },
 
     {
-      "title": "1 bedroom for sale at east legon",
-      "price": "1,420,389",
-      "location": "East Legon",
+      "title": "1 bedroom for rent at east legon",
+      "price": "14289",
+      "type": "rent",
+      "location": "East Legon Hills",
       "images": [
         "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3264&q=80",
         "https://images.unsplash.com/photo-1621293954908-907159247fc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
@@ -499,7 +504,8 @@
 
     {
       "title": "1-Bedroom luxury apartment for sale at ringway estate, osu",
-      "price": "155,200",
+      "price": "555200",
+      "type": "sale",
       "location": "Ringway Estate, Osu",
       "images": [
         "https://images.unsplash.com/photo-1560185009-dddeb820c7b7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
@@ -550,8 +556,9 @@
       }
     },
     {
-      "title": "4 Bedrooms for sale at oyarifa",
-      "price": "3,103,481",
+      "title": "4 Bedrooms for rent at oyarifa",
+      "price": "31081",
+      "type": "rent",
       "location": "Oyarifa",
       "images": [
         "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
@@ -600,9 +607,10 @@
       }
     },
     {
-      "title": "Luxury Villa with Ocean View, Accra",
-      "price": "2,500,000",
-      "location": "Accra",
+      "title": "Luxury 3 Bedrooms Villa with Ocean View, Prampram",
+      "price": "2500000",
+      "type": "sale",
+      "location": "Prampram",
       "images": [
         "https://images.unsplash.com/photo-1635108201747-976f7d4ba453?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
         "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
