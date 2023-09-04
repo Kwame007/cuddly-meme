@@ -284,7 +284,14 @@
         "cabinets": true,
         "water": true
       },
-      "id": "1"
+      "id": "1",
+      "developer": {
+        "name": "Quao Property",
+        "phone": "0542345649",
+        "email": "quaoproperty@gmail.com",
+        "logo": "https://meqasa.com/uploads/imgs/f01176b82b54c77ae93f6076c886d073"
+      },
+      "viewCount": 2300
     },
     {
       "title": "9 Bedrooms Furnished House For Sale at Adjiriganor",
@@ -338,7 +345,14 @@
         "garage": true,
         "fridge": true,
         "water": true
-      }
+      },
+      "agent": {
+        "name": "DE TELLE COMPANY LTD.",
+        "phone": "0242345649",
+        "email": "detelle@gmail.com",
+        "logo": "https://meqasa.com/fascimos/somics/2145993801"
+      },
+      "viewCount": 1500
     },
     {
       "title": "Executive 3 Bedroom fully furnished Apartment For Rent At Airport Residential at @villagioresidence",
@@ -391,7 +405,14 @@
         "garage": true,
         "fridge": true,
         "water": true
-      }
+      },
+      "agent": {
+        "name": "ALFREDO PROPERTIES",
+        "phone": "0243256738",
+        "email": "alfredoproperties@gmail.com",
+        "logo": "https://meqasa.com/fascimos/somics/539218271"
+      },
+      "viewCount": 500
     },
 
     {
@@ -445,7 +466,14 @@
         "garage": true,
         "fridge": true,
         "water": true
-      }
+      },
+      "agent": {
+        "name": "GREENPAGE PROPERTY NETWORK",
+        "phone": "0233256738",
+        "email": "greenpageproperties@gmail.com",
+        "logo": "https://meqasa.com/fascimos/somics/490075369"
+      },
+      "viewCount": 4590
     },
 
     {
@@ -499,7 +527,14 @@
         "garage": true,
         "fridge": true,
         "water": true
-      }
+      },
+      "agent": {
+        "name": "Regus Ghana",
+        "phone": "0243267489",
+        "email": "regusghana@gmail.com",
+        "logo": "https://meqasa.com/fascimos/somics/1510531704"
+      },
+      "viewCount": 3245
     },
 
     {
@@ -553,7 +588,14 @@
         "garage": true,
         "fridge": true,
         "water": true
-      }
+      },
+      "agent": {
+        "name": "SWEET HOME REAL ESTATE",
+        "phone": "0567834567",
+        "email": "sweethome@gmail.com",
+        "logo": "https://meqasa.com/fascimos/somics/2011780171"
+      },
+      "viewCount": 2400
     },
     {
       "title": "4 Bedrooms for rent at oyarifa",
@@ -604,7 +646,14 @@
         "garage": true,
         "fridge": true,
         "water": true
-      }
+      },
+      "agent": {
+        "name": "SellRent Ghana",
+        "phone": "0537834567",
+        "email": "sellrent@gmail.com",
+        "logo": "https://meqasa.com/fascimos/somics/77166337"
+      },
+      "viewCount": 240
     },
     {
       "title": "Luxury 3 Bedrooms Villa with Ocean View, Prampram",
@@ -642,7 +691,14 @@
         "garage": true,
         "water": true
       },
-      "id": "8"
+      "id": "8",
+      "developer": {
+        "name": "Goldkey Properties Limited",
+        "phone": "0557834567",
+        "email": "gldkey@gmail.com",
+        "logo": "https://meqasa.com/uploads/imgs/c4085edb510333529100aefe69f2e93b"
+      },
+      "viewCount": 2740
     }
   ]
 }
