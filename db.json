@@ -111,6 +111,18 @@
       "href": "agent-name"
     }
   ],
+  "banners": [
+    {
+      "href": "http://www.primroseproperties.net/",
+      "desc": "Ads description",
+      "src": "https://dve7rykno93gs.cloudfront.net/pieoq/2006345637.mp4"
+    },
+    {
+      "href": "https://dve7rykno93gs.cloudfront.net/pieoq/2006345637.mp4",
+      "desc": "Ads description",
+      "src": "https://dve7rykno93gs.cloudfront.net/pieoq/1478641684"
+    }
+  ],
 
   "projects": [
     {
