@@ -1194,7 +1194,13 @@
         "linkedin": true,
         "youtube": true
       },
-      "id": "2"
+      "id": "2",
+      "developer": {
+        "name": "IndigoHomes",
+        "phone": "0547834567",
+        "email": "indigohomes@gmail.com",
+        "logo": "https://meqasa.com/uploads/imgs/e276c38f2f370d659be950b847148af6"
+      }
     },
     {
       "name": "Swami India Ghana Limited",
@@ -1405,7 +1411,13 @@
         "linkedin": true,
         "youtube": true
       },
-      "id": "3"
+      "id": "3",
+      "developer": {
+        "name": "Swami India Ghana Limited",
+        "phone": "0547834567",
+        "email": "swami@gmail.com",
+        "logo": "https://meqasa.com/uploads/imgs/bad5eded523f5e4695f26059d038f332"
+      }
     },
     {
       "name": "VAAL REAL ESTATE GHANA",
@@ -1616,7 +1628,13 @@
         "linkedin": true,
         "youtube": true
       },
-      "id": "4"
+      "id": "4",
+      "developer": {
+        "name": "VAAL REAL ESTATE GHANA",
+        "phone": "0547834567",
+        "email": "vaal@gmail.com",
+        "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe"
+      }
     },
     {
       "name": "Clifton Homes",
@@ -1724,7 +1742,13 @@
         "linkedin": false,
         "youtube": false
       },
-      "id": "5"
+      "id": "5",
+      "developer": {
+        "name": "Clifton Homes",
+        "phone": "0547834567",
+        "email": "clifton@gmail.com",
+        "logo": "https://meqasa.com/uploads/imgs/f752f86705ef4ac685e67ab8f506b2d9"
+      }
     }
   ],
   "agents": [
