@@ -1868,7 +1868,8 @@
         "instagram": true,
         "linkedin": true
       },
-      "id": "1"
+      "id": "1",
+      "website": "https://dtelle.com"
     },
     {
       "name": "White Group Company Ltd.",
@@ -1886,19 +1887,20 @@
       "id": "2"
     },
     {
-      "name": "SWEET HOME REAL ESTATE",
-      "location": "ACCRA-EAST LEGON",
-      "listings": 10047,
+      "name": "DE TELLE COMPANY LTD.",
+      "location": "ACCRA",
+      "listings": 100,
       "isVerified": true,
-      "description": "Too often home buyers in Accra face the need to compromise when buying a property, forced by market dynamics and unreliable suppliers to sacrifice either loc...",
-      "logo": "https://meqasa.com/fascimos/somics/2011780171",
+      "description": "A Real Estate Brokerage firm that is into Property Management, Brokerage and Building Materials ...",
+      "logo": "https://meqasa.com/fascimos/somics/2145993801",
       "socials": {
         "facebook": true,
-        "twitter": false,
-        "instagram": false,
-        "linkedin": false
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
       },
-      "id": "3"
+      "id": "3",
+      "website": "https://dtelle.com"
     },
     {
       "name": "Fairwin Properties",
@@ -1928,7 +1930,8 @@
         "instagram": true,
         "linkedin": true
       },
-      "id": "5"
+      "id": "5",
+      "website": "https://dtelle.com"
     },
     {
       "name": "Picasso Estates and Services",
