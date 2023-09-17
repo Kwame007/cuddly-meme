@@ -766,5 +766,169 @@
       },
       "viewCount": 1740
     }
+  ],
+  "developers": [
+    {
+      "name": "Goldkey Properties Limited",
+      "location": "Rangoon Ln, Accra, Ghana",
+      "units": [1, 2, 3],
+      "projects": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+      "description": "Goldkey Properties Limited, established in 1997, is a leading Real Estate development company in Ghana. It is renowned for its leadership, service-driven property management culture and proven-competencies in commercial and residential developments for sale and rental.",
+      "logo": "https://meqasa.com/uploads/imgs/c4085edb510333529100aefe69f2e93b",
+      "cover": "https://meqasa.com/uploads/imgs/ecec878867b32953568176d107a630a6",
+      "website": " http://www.goldkeyghana.com/",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": false
+      },
+      "id": "1"
+    },
+    {
+      "name": "IndigoHomes",
+      "location": "Oyarifa-Aburi N4 Rd, off Oyarifa - Abokobi Junction, Greater Accra Ghana",
+      "units": [1, 2, 3],
+      "projects": [1, 2, 3],
+      "description": "lndigoHomes is a residential developer committed to helping people love where they live. Present in Ghana, Kenya and Tanzania, we build vibrant, moderately.",
+      "logo": "https://meqasa.com/uploads/imgs/e276c38f2f370d659be950b847148af6",
+      "cover": "https://meqasa.com/uploads/imgs/8dfeafde33953c757778cdda87b510dd",
+      "website": " https://indigohomes.com/",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
+      },
+      "id": "2"
+    },
+    {
+      "name": "Swami India Ghana Limited",
+      "location": " 8th Ringway, Accra, Ghana",
+      "units": [1, 2, 3],
+      "projects": [1, 2, 3],
+      "description": "lndigoHomes is a residential developer committed to helping people love where they live. Present in Ghana, Kenya and Tanzania, we build vibrant, moderately.",
+      "logo": "https://meqasa.com/uploads/imgs/e276c38f2f370d659be950b847148af6",
+      "cover": "https://meqasa.com/uploads/imgs/8dfeafde33953c757778cdda87b510dd",
+      "website": " https://indigohomes.com/",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
+      },
+      "id": "3"
+    },
+    {
+      "name": "VAAL REAL ESTATE GHANA",
+      "location": " One Airport Square",
+      "units": [1, 2, 3],
+      "projects": [1, 2, 3],
+      "description": "Vaal Real Estate was founded with the aim of reducing the hassle of finding and buying homes. Vaal Real Estate has been successful in developing a brand whos...",
+      "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe",
+      "cover": "https://meqasa.com/uploads/imgs/99557f6ec1eeddc700589295dc4afbbb",
+      "website": " https://vaal.com.gh/",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
+      },
+      "id": "4"
+    },
+    {
+      "name": "Clifton Homes",
+      "location": "34 Senchi street, Accra, Ghana",
+      "units": [1, 2, 3],
+      "projects": [1, 2, 3],
+      "description": "Too often home buyers in Accra face the need to compromise when buying a property, forced by market dynamics and unreliable suppliers to sacrifice either loc...",
+      "logo": "https://meqasa.com/uploads/imgs/f752f86705ef4ac685e67ab8f506b2d9",
+      "cover": "https://meqasa.com/uploads/imgs/f74f42fe7d0f176dd49d957bb1cee653",
+      "website": " http://www.cliftonghana.com/",
+      "socials": {
+        "facebook": true,
+        "twitter": false,
+        "instagram": true,
+        "linkedin": false
+      },
+      "id": "5"
+    }
+  ],
+  "agents": [
+    {
+      "name": "SWEET HOME REAL ESTATE",
+      "location": "ACCRA-EAST LEGON",
+      "listings": 10047,
+      "isVerified": true,
+      "description": "Too often home buyers in Accra face the need to compromise when buying a property, forced by market dynamics and unreliable suppliers to sacrifice either loc...",
+      "logo": "https://meqasa.com/fascimos/somics/2011780171",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
+      },
+      "id": "1"
+    },
+    {
+      "name": "White Group Company Ltd.",
+      "location": "East Legon",
+      "listings": 393,
+      "isVerified": true,
+      "description": "THE WHITE GROUP COMPANY LTD began operations in 2005. We are well known for our distinguished le.",
+      "logo": "https://meqasa.com/fascimos/somics/886462734",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": false
+      },
+      "id": "2"
+    },
+    {
+      "name": "SWEET HOME REAL ESTATE",
+      "location": "ACCRA-EAST LEGON",
+      "listings": 10047,
+      "isVerified": true,
+      "description": "Too often home buyers in Accra face the need to compromise when buying a property, forced by market dynamics and unreliable suppliers to sacrifice either loc...",
+      "logo": "https://meqasa.com/fascimos/somics/2011780171",
+      "socials": {
+        "facebook": true,
+        "twitter": false,
+        "instagram": false,
+        "linkedin": false
+      },
+      "id": "3"
+    },
+    {
+      "name": "Fairwin Properties",
+      "location": "Cantonments, Labone, Ridge, Osu, Airport Residential Area, Dzorwulu, Roman Ridge",
+      "listings": 163,
+      "isVerified": true,
+      "description": "We are the solution to all your property and accommodation needs....",
+      "logo": "https://meqasa.com/fascimos/somics/2101105600",
+      "socials": {
+        "facebook": false,
+        "twitter": false,
+        "instagram": false,
+        "linkedin": false
+      },
+      "id": "4"
+    },
+    {
+      "name": "GULF EDGE GROUP LTD",
+      "location": "Accra, Ghana",
+      "listings": 37,
+      "isVerified": true,
+      "description": "",
+      "logo": "https://meqasa.com/fascimos/somics/1356835479",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
+      },
+      "id": "5"
+    }
   ]
 }
