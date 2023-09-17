@@ -1929,6 +1929,21 @@
         "linkedin": true
       },
       "id": "5"
+    },
+    {
+      "name": "Picasso Estates and Services",
+      "location": "East Legon Hills",
+      "listings": 7,
+      "isVerified": false,
+      "description": "",
+      "logo": "https://meqasa.com/fascimos/somics/2063073182",
+      "socials": {
+        "facebook": true,
+        "twitter": true,
+        "instagram": true,
+        "linkedin": true
+      },
+      "id": "6"
     }
   ]
 }
