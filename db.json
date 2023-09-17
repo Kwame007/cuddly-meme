@@ -773,7 +773,7 @@
       "location": "Rangoon Ln, Accra, Ghana",
       "units": [1, 2, 3],
       "projects": {
-        "current-projects": [
+        "currentProjects": [
           {
             "name": "PwC Tower",
             "image": "https://meqasa.com//uploads/imgs/5e1da41192d7e422fae488cc9640ede0?dim=256x190",
@@ -787,7 +787,7 @@
             "id": "2"
           }
         ],
-        "completed-projects": [
+        "completedProjects": [
           {
             "name": "Odi's Court",
             "image": "https://meqasa.com//uploads/imgs/ba27f3e779f6d86c250ffe9bdd9c83b1?dim=256x190",
