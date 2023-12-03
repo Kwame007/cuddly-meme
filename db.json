@@ -204,7 +204,7 @@
     {
       "title": "Could Your Home Be Making You Sick?",
       "author": "John Smith",
-      "poster": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80",
+      "poster": "https://images.unsplash.com/photo-1701453031915-60f4fc287f4d?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "company": "meQasa Blog",
       "datePosted": "April 04, 2023",
       "href": "#",
@@ -213,7 +213,7 @@
     {
       "title": "3 most popular property types amongst real estate developers in ghana 2023",
       "author": "Amy Johnson",
-      "poster": "https://images.unsplash.com/photo-1526566762798-8fac9c07aa98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2208&q=80",
+      "poster": "https://images.unsplash.com/photo-1598658896948-0b31b21f14c8?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "company": "meQasa Blog",
       "datePosted": "March 23, 2023",
       "href": "#",
@@ -222,7 +222,7 @@
     {
       "title": "Cabinet Approval of the Rent Bill",
       "author": "David Bruce Lee",
-      "poster": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80",
+      "poster": "https://images.unsplash.com/photo-1701406708142-2de174101f01?q=80&w=3290&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "company": "meQasa Blog",
       "datePosted": "November 22, 2022",
       "href": "#",
@@ -232,22 +232,22 @@
   "neighborhoods": [
     {
       "location": "East Legon",
-      "src": "https://images.unsplash.com/photo-1503891450247-ee5f8ec46dc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2000&q=80",
+      "src": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?q=80&w=3273&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "href": "/"
     },
     {
       "location": "Airport Residential Area",
-      "src": "https://images.unsplash.com/photo-1429554429301-1c7d5ae2d42e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3270&q=80",
+      "src": "https://images.unsplash.com/photo-1641331220873-dc9cb9adf2ae?q=80&w=3387&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "href": "/"
     },
     {
       "location": "Osu",
-      "src": "https://images.unsplash.com/photo-1523430410476-0185cb1f6ff9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3348&q=80",
+      "src": "https://images.unsplash.com/photo-1569112749402-52cf70d0c172?q=80&w=3024&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "href": "/"
     },
     {
       "location": "Dzorwulu",
-      "src": "https://images.unsplash.com/photo-1568625455600-7b95a06a1125?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3024&q=80",
+      "src": "https://images.unsplash.com/photo-1566404791232-af9fe0ae8f8b?q=80&w=3436&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "href": "/"
     }
   ],
