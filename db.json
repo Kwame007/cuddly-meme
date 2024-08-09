@@ -982,7 +982,8 @@
         "name": "Goldkey Properties Limited",
         "phone": "0557834567",
         "email": "gldkey@gmail.com",
-        "logo": "https://meqasa.com/uploads/imgs/c4085edb510333529100aefe69f2e93b"
+        "logo": "https://meqasa.com/uploads/imgs/c4085edb510333529100aefe69f2e93b",
+        "brandColor": "#A48851"
       }
     },
     {
@@ -1199,7 +1200,8 @@
         "name": "IndigoHomes",
         "phone": "0547834567",
         "email": "indigohomes@gmail.com",
-        "logo": "https://meqasa.com/uploads/imgs/e276c38f2f370d659be950b847148af6"
+        "logo": "https://meqasa.com/uploads/imgs/e276c38f2f370d659be950b847148af6",
+        "brandColor":"#114AE4"
       }
     },
     {
@@ -1402,7 +1404,7 @@
       },
       "description": "Swami India Ghana Limited (SIGL) was incorporated in 2013, under the Companies Act of Ghana. We pride ourselves in being specialists in Real Estate Development, Land Sales, Design & Build, general building, renovations and refurbishments. Yet, our main objective is to be a formidable real-estate company that can provide world-class housing and properties to an emerging Ghana. Our continuous emphasis on quality in construction, building technology and planning is what our residents appreciate the most. And it gives us immense pleasure and happiness that we can give them beautiful and thoughtful homes without costing them the moon.Our Team Over the years, we have built a team of professionals who have specialized in different aspects of design and construction. Each individual brings a set of skills and innovative ideas to the table when it comes to exceeding our client’s expectations. In fact, the trust people have in the SIGL and its brands is all because of our committed team. And since we want to be the best in our business we work with the best in the business.",
       "logo": "https://meqasa.com/uploads/imgs/bad5eded523f5e4695f26059d038f332",
-      "cover": "https://meqasa.com/uploads/imgs/fbddacdd22f1c8adda2dba66a7caf299",
+      "cover": "https://meqasa.com/uploads/imgs/53b88320e24f80fe86b72b8f3219e042",
       "website": " https://indigohomes.com/",
       "socials": {
         "facebook": true,
@@ -1416,7 +1418,8 @@
         "name": "Swami India Ghana Limited",
         "phone": "0547834567",
         "email": "swami@gmail.com",
-        "logo": "https://meqasa.com/uploads/imgs/bad5eded523f5e4695f26059d038f332"
+        "logo": "https://meqasa.com/uploads/imgs/4509af6fc5b2752e95c1c37779335162",
+        "brandColor":"#58585A"
       }
     },
     {
@@ -1619,7 +1622,7 @@
       },
       "description": "Vaal Real Estate was founded with the aim of reducing the hassle of finding and buying homes. Vaal Real Estate has been successful in developing a brand whose main aim is to change the market by understanding and satisfying the needs of potential and future homeowners. With the combined international experience of over 15 Years, Vaal Real Estate has ventured into the Ghanaian market by storm with one vision, to build better modern homes that are of international, architectural standards with hopes of becoming the market leader in real estate, a fast-developing sector in Ghana that highly contributes to the country’s GDP.",
       "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe",
-      "cover": "https://meqasa.com/uploads/imgs/99557f6ec1eeddc700589295dc4afbbb",
+      "cover": "https://meqasa.com/uploads/imgs/65f4416d9b73e2b68a99fab582035f6a",
       "website": " https://vaal.com.gh/",
       "socials": {
         "facebook": true,
@@ -1633,7 +1636,8 @@
         "name": "VAAL REAL ESTATE GHANA",
         "phone": "0547834567",
         "email": "vaal@gmail.com",
-        "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe"
+        "logo": "https://meqasa.com/uploads/imgs/3d30c4a775d6448460f58316039938fe",
+        "brandColor":"#FFDE01"
       }
     },
     {
@@ -1850,7 +1854,8 @@
         "name": "Clifton Homes",
         "phone": "0547834567",
         "email": "clifton@gmail.com",
-        "logo": "https://meqasa.com/uploads/imgs/f752f86705ef4ac685e67ab8f506b2d9"
+        "logo": "https://meqasa.com/uploads/imgs/f752f86705ef4ac685e67ab8f506b2d9",
+        "brandColor":"#1A1A1A"
       }
     }
   ],
